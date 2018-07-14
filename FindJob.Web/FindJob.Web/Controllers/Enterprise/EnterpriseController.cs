@@ -14,5 +14,10 @@ namespace FindJob.Web.Controllers.Enterprise
         {
             return View();
         }
+
+        public ActionResult AddInfo()
+        {
+            return View();
+        }
 	}
 }

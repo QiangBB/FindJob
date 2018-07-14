@@ -9,7 +9,6 @@ namespace FindJob.BLL
     public class T_Base_Student
     {
         public string stu=new FindJob.DAL.T_Base_Student().sqlstr;
-      
         
     }
 }
