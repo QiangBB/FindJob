@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindJob.Web", "FindJob.Web\FindJob.Web.csproj", "{8FE6560E-F62C-48FB-B35E-6C569C5D3AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindJob.DAL", "FindJob.DAL\FindJob.DAL.csproj", "{261F3037-75DA-4FF7-8CE9-DB929967C532}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindJob.Model", "FindJob.Model\FindJob.Model.csproj", "{D0A3E4B3-BA1F-4723-B2F9-9ACC72363EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindJob.BLL", "FindJob.BLL\FindJob.BLL.csproj", "{CDD93152-FE5D-4461-B3F1-8DA9E08A8367}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8FE6560E-F62C-48FB-B35E-6C569C5D3AB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FE6560E-F62C-48FB-B35E-6C569C5D3AB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FE6560E-F62C-48FB-B35E-6C569C5D3AB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FE6560E-F62C-48FB-B35E-6C569C5D3AB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{261F3037-75DA-4FF7-8CE9-DB929967C532}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{261F3037-75DA-4FF7-8CE9-DB929967C532}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{261F3037-75DA-4FF7-8CE9-DB929967C532}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{261F3037-75DA-4FF7-8CE9-DB929967C532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0A3E4B3-BA1F-4723-B2F9-9ACC72363EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0A3E4B3-BA1F-4723-B2F9-9ACC72363EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0A3E4B3-BA1F-4723-B2F9-9ACC72363EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0A3E4B3-BA1F-4723-B2F9-9ACC72363EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CDD93152-FE5D-4461-B3F1-8DA9E08A8367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDD93152-FE5D-4461-B3F1-8DA9E08A8367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDD93152-FE5D-4461-B3F1-8DA9E08A8367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDD93152-FE5D-4461-B3F1-8DA9E08A8367}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
