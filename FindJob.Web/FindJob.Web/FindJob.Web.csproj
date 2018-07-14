@@ -599,6 +599,7 @@
     <Content Include="Views\admin\Index.cshtml" />
     <Content Include="Views\Enterprise\Index.cshtml" />
     <Content Include="Views\Student\Index.cshtml" />
+    <Content Include="Views\admin\EPIndex.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />

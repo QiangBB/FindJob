@@ -15,6 +15,6 @@ namespace FindJob.Model
         public string Introduction { get; set; }
         public string Qualification { get; set; }
         public Boolean IsChecked { get; set; }
-        public int UesrId { get; set; }
+        public int UserId { get; set; }
     }
 }
