@@ -1,0 +1,5 @@
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Model\bin\Debug\FindJob.Model.dll
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Model\bin\Debug\FindJob.Model.pdb
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Model\obj\Debug\FindJob.Model.dll
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Model\obj\Debug\FindJob.Model.pdb
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Model\obj\Debug\FindJob.Model.csprojResolveAssemblyReference.cache

@@ -734,6 +734,16 @@
     <Folder Include="Attribute\" />
     <Folder Include="Models\" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FindJob.BLL\FindJob.BLL.csproj">
+      <Project>{cdd93152-fe5d-4461-b3f1-8da9e08a8367}</Project>
+      <Name>FindJob.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FindJob.Model\FindJob.Model.csproj">
+      <Project>{d0a3e4b3-ba1f-4723-b2f9-9acc72363eb5}</Project>
+      <Name>FindJob.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

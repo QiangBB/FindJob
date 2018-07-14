@@ -40,6 +40,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="T_Base_Student.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\FindJob.DAL\FindJob.DAL.csproj">
+      <Project>{261f3037-75da-4ff7-8ce9-db929967c532}</Project>
+      <Name>FindJob.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FindJob.Model\FindJob.Model.csproj">
+      <Project>{d0a3e4b3-ba1f-4723-b2f9-9acc72363eb5}</Project>
+      <Name>FindJob.Model</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

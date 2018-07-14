@@ -1,0 +1,7 @@
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.DAL\bin\Debug\FindJob.DAL.dll
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.DAL\bin\Debug\FindJob.DAL.pdb
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.DAL\bin\Debug\FindJob.Model.dll
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.DAL\bin\Debug\FindJob.Model.pdb
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.DAL\obj\Debug\FindJob.DAL.csprojResolveAssemblyReference.cache
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.DAL\obj\Debug\FindJob.DAL.dll
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.DAL\obj\Debug\FindJob.DAL.pdb

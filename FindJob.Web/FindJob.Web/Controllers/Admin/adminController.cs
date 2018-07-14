@@ -12,6 +12,7 @@ namespace FindJob.Web.Controllers.Admin
         // GET: /admin/
         public ActionResult Index()
         {
+           
             return View();
         }
 	}

@@ -22,3 +22,9 @@ C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Web\bin\zh-Hans\S
 C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Web\bin\zh-Hans\System.Web.Mvc.resources.dll
 C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Web\obj\Debug\FindJob.Web.dll
 C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Web\obj\Debug\FindJob.Web.pdb
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Web\bin\FindJob.BLL.dll
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Web\bin\FindJob.Model.dll
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Web\bin\FindJob.BLL.pdb
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Web\bin\FindJob.Model.pdb
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Web\bin\FindJob.DAL.dll
+C:\Users\jianqiang\Desktop\github代码区\FindJob.Web\FindJob.Web\bin\FindJob.DAL.pdb
