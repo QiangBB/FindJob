@@ -39,7 +39,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Menu.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="T_Base_EI.cs" />
+    <Compile Include="T_Base_Enterprise.cs" />
+    <Compile Include="T_Base_Intent.cs" />
+    <Compile Include="T_Base_Job.cs" />
+    <Compile Include="T_Base_Menu.cs" />
+    <Compile Include="T_Base_Role.cs" />
+    <Compile Include="T_Base_RoleMenu.cs" />
+    <Compile Include="T_Base_Student.cs" />
+    <Compile Include="T_Base_User.cs" />
+    <Compile Include="T_Relation_ApplyJob.cs" />
+    <Compile Include="T_Relation_RecruitInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
